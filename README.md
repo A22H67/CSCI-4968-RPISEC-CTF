@@ -1,4 +1,2 @@
-Đây là nơi giải 1 số bài CTF tiêu biểu của khóa học khai thác nhị phân của RPISEC(CSCI 4968)các bạn có thể xem và làm này nếu có hứng thú
--->https://github.com/RPISEC/MBE
-
-Vì đối tượng người đọc của mình hướng tới là những người chưa biết gì và đang trong quá trình mới bắt đầu tìm hiểu và học hỏi nên bài các bài viết của mình có lẽ sẽ dài hơn cần thiết 1 tý ^^
+Tri thức là sức mạnh.
+Những cái mình up ở trên tuy không phải gì to lớn nhưng hy vọng nó sẽ giúp ích cho các bạn trong bước đầu tìm hiểu cũng như học tập
