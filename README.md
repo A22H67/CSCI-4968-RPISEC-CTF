@@ -1,2 +1,1 @@
-
-Những cái mình up ở trên tuy không phải gì to lớn nhưng hy vọng nó sẽ giúp ích cho các bạn trong bước đầu tìm hiểu cũng như học tập
+Hành trình vạn dặm được khởi đầu từ 1 bước chân.Hy vọng những thứ mình up ở đây sẽ giúp được các bạn trong bước đi đầu tiên
